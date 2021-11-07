@@ -81,6 +81,13 @@ h1 {
   padding-right: ;
 }
 
+.primary-btn2{
+				background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+  		color: #a40606;
+  		text-decoration: none;
+  		border-radius: 20px;
+  		padding: 13px 42px 13px 42px;
+}
 <!-- Styles for work stuff -->
 .blue {
 color: #a40606;
