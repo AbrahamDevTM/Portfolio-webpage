@@ -59,11 +59,10 @@ h1 {
 .halfi{
   width: 80%;
   padding-left: 25px;
-}
-<!-- Styles for work stuff -->
+}  
 
 .wcontent {
-  background-color:rgba(255,255,255,.8);
+  background-color: rgba(77, 5, 232, 1);
   border-radius:.25em;
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
@@ -81,16 +80,8 @@ h1 {
   padding-right: ;
 }
 
-.primary-btn2{
-				background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
-  		color: #a40606;
-  		text-decoration: none;
-  		border-radius: 20px;
-  		padding: 13px 42px 13px 42px;
-}
-<!-- Styles for work stuff -->
-.blue {
-color: #a40606;
+.custom-color{
+				color: #a40606;
 }
 .primary-btn{
 				background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
@@ -105,4 +96,14 @@ color: #a40606;
 .box{
   padding-left: 5%;
   display: inline-block;
+}
+.exp{
+  padding: 30px;
+  margin: 30px;
+  background-color: rgb(238, 251, 255);
+  border-radius: 20px;
+}
+.exp-item{
+  padding: 10px;
+  border-left: rgba(137, 130, 247, .2)
 }
